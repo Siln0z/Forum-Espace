@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #d6d6d6;
+    max-width: 1600px;
+    margin: auto;
+    padding-top: 3em;
+}
+body .accueil{
+    text-align: center;
+    padding-top: 5em;
+}
+#connexion{
+    text-align: center;
+    padding-top: 5em;
+}
+#ajoutSujet{
+    text-align: center;
+    padding-top: 10em;
+}
+#inscription{
+    text-align: center;
+    padding-top: 10em;
+}
+.uk-card-header{
+    background: cadetblue;
+}
+uk-card-footer{
+    background: cadetblue;
+}
+.uk-text-meta{
+    color:black;
+}
+.uk-card-body{
+    background: #D6D6D6;
+    color: black;
+}
+#headReponses{
+    text-align: center;
+    padding-top: 5em;
+}
+footer{
+    margin-top: 2em;
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+}
+#navbar{
+    background-color: cadetblue;
+}
+#navbar a{
+    color: black;
+}
+#navbar i{
+    color:black;
+}
+.quote{
+    padding-left: 10em;
+    padding-right: 10em;
+    color: black;
+    font-style: italic;
+}
+.auteur{
+    font-weight: bold;
+}
+#utilisateurBanni{
+    text-align: center;
+    color: red;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+#lienregles a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+#error404{
+    text-align: center;
+    padding-top: 3em;
+}
+
+
